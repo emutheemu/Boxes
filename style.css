@@ -1,0 +1,104 @@
+p{
+	color: pink;
+}
+
+body {
+	background-color: red;
+	
+}
+
+.boxOne {
+	width: 20%;
+	height: 200px;
+	background-color: Yellow;
+	float: left;
+
+
+}
+
+.boxTwo {
+	width: 80%;
+	height: 200px;
+	background-color: pink;
+	float: right;
+}
+
+.boxThree {
+	width: 80%;
+	height: 200px;
+	background-color: Teal;
+	clear: both;
+	float: left;
+	
+
+}
+
+.boxFour {
+	width: 20%;
+	height: 200px;
+	background-color: orange;
+	float: right;
+
+}
+
+.boxFive {
+	width:33.3%;
+	height: 200px;
+	background-color: purple;
+	clear: both;
+	float: left;
+
+
+}
+
+.boxSix {
+	width: 33.3%;
+	height: 200px;
+	background-color: #be03fc;
+	float: left;
+
+}
+
+.boxSeven {
+	width: 33.3%;
+	height: 200px;
+	background-color: purple;
+	float: left;
+	
+
+}
+
+.boxEight {
+	width: 40%;
+	height: 200px;
+	background-color: black;
+	clear: both;
+	float: left;
+	
+}
+
+.boxNine {
+	width: 60%;
+	height: 200px;
+	background-color: green;
+	float: right;
+}
+
+.boxTen {
+	width: 60%;
+	height: 200px;
+	background-color: yellow;
+	clear: both;
+	float: left;
+}
+
+.boxEleven {
+	width: 40%;
+	height: 200px;
+	background-color: blue;
+float: right;
+}
+
+ 
+
+
